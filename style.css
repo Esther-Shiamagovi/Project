@@ -1,0 +1,12 @@
+#container{
+    padding: 20px;
+    margin: 5%;
+    border: solid dotted ;
+    border-color: blueviolet;
+}
+#object{
+    padding: 20px;
+    margin: 5%;
+    border: solid ;
+    border-color: yellowgreen;
+}
